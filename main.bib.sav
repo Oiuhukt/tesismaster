@@ -1049,7 +1049,7 @@ The concept of "fitness" is a notion of central importance to evolutionary theor
   year         = {1996},
 }
 
-@Article{Friedman1974-FRIEAS,
+@Article{Friedman1974,
   author    = {Michael Friedman},
   title     = {Explanation and Scientific Understanding},
   doi       = {10.2307/2024924},
